@@ -21,7 +21,7 @@
 </br>
 <div>
   <h2>AutoInventário User Access Mobile mockup</h2>
-  <img src="assets/Mobile.png">
+  <img src="assets/mobile.png">
 </div>
 </br>
 </br>
